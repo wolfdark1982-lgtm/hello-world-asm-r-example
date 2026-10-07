@@ -28,4 +28,4 @@ WinMain:
 section .rodata
     .title db "HelloAsm",0
     .msg   db "Hello Asm",0
-    .delay dq 5.0
+    .delay dq 1.0
